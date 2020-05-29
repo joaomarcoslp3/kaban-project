@@ -1,4 +1,4 @@
-# kanban-board
+<h1 align="center"> kanban-board </h1>
 <p align="center">
   A simple project using pure HTML, CSS and JavaScript to reproduce a Kanban Board
 </p>
